@@ -1,0 +1,8 @@
+Okay wanted to simplify this.
+Things to do: Make proper unit tests, try and optimize the get change method, double check for unnecessary variables,
+and work on the sales report if time allows.
+Big thing I think we need to keep in mind. The menu class has a scanner so I was having the classes be instanced
+in the menu class and then using the menu's scanner so we didn't need to open extra ones.
+
+4/11/22 To do list remaining: Unit tests, sales report, and need to account for zero change in get change so it
+isn't as awkward. This last point should be good and done now.
